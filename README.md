@@ -9,7 +9,7 @@ Built With :
 - FontAwesome
 - AOS
 
-LIVE WEBSITE : http://studywithmang.my.id/ | https://studywithmang.nasihosting.com/ 
+LIVE WEBSITE : http://studywithmang.my.id/ | https://studywithmang.nasihosting.com/ <br>
 <b>LOGIN ADMIN PAGE TO VIEW ADMIN CONTROLS<b> : email : admin@gmail.com | pass : admin
 
 SCREENSHOOT : 
